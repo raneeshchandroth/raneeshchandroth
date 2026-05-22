@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Raneesh Chandroth | Director of Software Development & Delivery
+# Raneesh Chandroth | Director of Solution Engineering
 **21+ Years of Experience in Software Engineering & Architecture**
 *Bluffdale, Utah | [LinkedIn Profile Link]*
 
